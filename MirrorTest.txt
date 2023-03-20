@@ -2,6 +2,6 @@
 Test 2: Demo
 
 
-Test 4: Another test
+Test 4: Another test oh no, a merge conflict!
 
 Test 5: More testing!
